@@ -1,0 +1,9 @@
+{
+  "name": "ahmedkoka_1_ai",
+  "description": "An advanced AI assistant named ahmedkoka_1_ai, capable of text, image, video, and live audio interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
